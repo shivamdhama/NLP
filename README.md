@@ -4,5 +4,5 @@ I have used Natural Language Processing to classify the category of Reviews (whe
 Language: Python(Keras)
 Algorithms: NLP with Random Forest
 Visualization: Pandas and Matplotlib
-accuracy: 80%
+accuracy: 80%!
 
